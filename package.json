@@ -12,11 +12,11 @@
     "@midwayjs/hooks-kit": "^3.0.0-rc.8",
     "@midwayjs/koa": "^3.0.6",
     "@midwayjs/rpc": "^3.0.0-rc.8",
-    "@midwayjs/task": "^3.0.8",
     "ahooks": "^3.1.2",
-    "isomorphic-unfetch": "^3.1.0",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "react-router": "^6.2.2",
+    "react-router-dom": "^6.2.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.13",
